@@ -1,2 +1,2 @@
-# Project-3-Git-GitHub
-Basics of Git workfow
+# Project-3.0: Git-GitHub
+## Basics of Git workfow
